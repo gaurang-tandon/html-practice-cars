@@ -1,0 +1,15 @@
+#mainContent div {
+margin:auto;
+margin-top:10%;
+text-align:center;
+padding:2% 0%;
+width:40%;
+font-size:150%;
+}
+input {
+width:75%;
+height:15%;
+}
+button {
+font-size:100%;
+}

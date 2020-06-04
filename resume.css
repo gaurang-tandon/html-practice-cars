@@ -1,0 +1,70 @@
+#mainContent .holder {
+border:solid 5px black;
+margin:2%;
+}
+#resumeHead {
+border-bottom:solid 3px black;
+height:30%;
+}
+#resumeHead h1 {
+font-size:325%;
+float:left;
+padding:0px;
+margin-top:1%;
+margin-bottom:1%;
+text-align:left;
+}
+#resumeHead p {
+padding-top:2%;
+}
+#introTag {
+width:58%;
+height:55%;
+float:left;
+}
+#contactInfo {
+text-align:right;
+width:40%;
+height:55%;
+float:right;
+}
+#resumeBody {
+border-top:solid 3px black;
+border-bottom:solid 3px black;
+height:75%;
+}
+#education{
+border-right:solid 3px black;
+width:69%;
+
+float:left;
+margin-left:0%;
+margin-right:0%;
+}
+#extras {
+float:right;
+width:30%;
+margin-left:0%;
+margin-right:0%;
+}
+#extras p {
+margin:15%;
+}
+#resumeFoot {
+border-top:solid 3px black;
+padding:1%;
+height:20%;
+}
+#resumeFoot p {
+margin:2%;
+}
+h2 {
+text-decoration:underline;
+text-shadow: 1px 1px white;
+color: black;
+}
+h3 {
+text-decoration:underline;
+text-shadow: 1px 1px white;
+color: black;
+}

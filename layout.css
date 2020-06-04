@@ -1,0 +1,122 @@
+body {
+background-color:red;
+}
+#header {
+height:20%;
+width:99%
+}
+#logoCorner {
+background-color:black;
+float:left;
+height:103%;
+width:10%;
+text-align:center;
+border-radius:2vw;
+}
+#topName {
+background-color:gold;
+float:left;
+height:75%;
+width:89%;
+text-align:center;
+border-radius:2vw;
+}
+#topNavBar{
+float:left;
+background-color:black;
+height:25%;
+width:89%;
+border-radius:2vw;
+align-content:center;
+}
+#topNavBar li{
+display:inline;
+color:gold;
+padding-left:9%;
+padding-right:9%;
+font-weight:bold;
+}
+#body {
+height:fill;
+width:99%;
+}
+#leftNavBar {
+background-color:black;
+float:left;
+width:12.25%;
+min-height:70%;
+border-radius:2vw;
+}
+#mainContent {
+background-color:gold;
+float:left;
+width:74%;
+min-height:70%;
+border-radius:2vw;
+}
+#mainContent h1 {
+margin-top:3%;
+text-align:center;
+color:black;
+text-shadow: 1px 1px red;
+text-decoration:underline;
+}
+#rightNavBar {
+background-color:black;
+float:left;
+width:12.25%;
+min-height:70%;
+border-radius:2vw;
+}
+#footer p {
+color:gold;
+}
+#footer1 {
+width: 48%;
+background-color:black;
+float:left;
+text-align:left;
+}
+#footer2 {
+width:48%;
+background-color:black;
+float:right;
+text-align:right;
+}
+.holder {
+padding:5px;
+}
+* {
+margin:2px;
+}
+.navBar {
+color:gold;
+display: flex;
+flex-wrap: wrap;
+font-size:180%;
+align-content:center;
+}
+.navBar li {
+padding-top:30%;
+padding-bottom:30%;
+}
+#rightNavBar ul {
+list-style-type: none;
+padding-left:20%;
+}
+#rightNavBar li:hover {
+font-size:110%;
+}
+a {
+text-decoration:none;
+}
+a:link {
+color:gold;
+}
+a:visited {
+color:yellow;
+}
+a:hover {
+color:red;
+}
+}
